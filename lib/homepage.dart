@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
 
                   });
                 },
-                  child: Icon(Icons.add,color: Colors.black,)
+                  child: Icon(Icons.add,color: Colors.red,)
                   ,
                   backgroundColor: Colors.blue,hoverColor: Colors.black,
                 ),
