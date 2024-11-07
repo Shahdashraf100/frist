@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
                 FloatingActionButton(onPressed: (){
                   setState(()
                   {
-                    if(num==0){
+                    if(num==1){
                       num;
                     }else{
                       num--;
